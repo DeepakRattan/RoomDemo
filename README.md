@@ -1,5 +1,5 @@
 # RoomDemo
-This project demonstrates the use of Room library that acts as an abstract layer for SQLite database.
+This project demonstrates the use of one of the Architectural compenent i.e Room library that acts as an abstract layer for SQLite database.
 
 Here I have used one activity named MainActivity where i have performed CRUD operations using ROOM library.
 
