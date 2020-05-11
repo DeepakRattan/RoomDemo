@@ -14,7 +14,7 @@ It’s a model class annotated with @Entity where all the variable will becomes 
     
     Fields in entity class can be annotated with @ColumnInfo(name = “name_of_column”) annotation to give specific column names
 
-<b>2. Dao(Data Access Object:</b> 
+<b>2. Dao(Data Access Object):</b> 
 DAO : Data Access Object is either be an interface or an abstract class annotated with @Doa annotation, containing all the methods to define the operations to be performed on data. The methods can be annotated with
 
     @Query to retrieve data from database
